@@ -33,6 +33,7 @@ sequelize.models = Object.fromEntries(capsEntries);
 const { Recipe } = sequelize.models;
 
 // Aca vendrian las relaciones
+//Comentarios
 // Product.hasMany(Reviews);
 
 module.exports = {
