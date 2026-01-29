@@ -32,7 +32,8 @@ sequelize.models = Object.fromEntries(capsEntries);
 // Para relacionarlos hacemos un destructuring Testing
 
 const { Recipe } = sequelize.
-models;
+
+
 
 // Aca vendrian las relaciones
 //Comentarios
